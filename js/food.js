@@ -4,7 +4,6 @@ class Food {
       var lastFed;
       this.image = loadImage("images/milk.png");
    }
-
    display() {
       var x = 80, y = 100;
 
